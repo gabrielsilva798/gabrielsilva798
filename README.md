@@ -21,7 +21,7 @@
 
 ## 💡 Fun Facts
 
-- 🍲 Feijoada é melhor que churrasco, mas vocês não estão preparados pra essa conversa.
+- 🍲 Tenho uma relação de amor com comidas que levam queijo 🧀, meu preferido é Cuscuz com quejo branco.
 - ❤️ Gosto muito de está em família, é sempre um moento de paz.
 - 🌱 Atualmente aprendendo sobre AWS, mas sempre aprendendo outras coisas, apaixonado por codar.
 - 🎧 Sou eclético mas curto ouvir pagode, rock, indie, forró, rap, hip-hop... Mas não ouço tantas músicas como deveria
