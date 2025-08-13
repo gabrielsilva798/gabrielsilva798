@@ -3,26 +3,41 @@
 ## 🚀 Sobre mim
 
 - 🎓 : Cursando Ensino Superior de Análise e Desenvolvimento de Sistemas
-- 💻 : Cursando Python pela Udemy (Básico ao Avançado) 
+- 💻 : Estudante ativo da área de DevOps e desenvolvimento com um pé em Analise de Dados. 
 - 💻 : Cursando Java pelo AlgarWorks (Básico ao Avançado) 
+- 💻 : Cursando Python pelo Hashtag Treinamentos (Básico ao Avançado) 
 - 💼 : Focado em me desenvolver na área de tecnologia
 - 🌍 : Nascido e criado em Brasília, Brasil!
 - 🎮 : Quando não estou codando estou jogando videogames ou assitindo animes.
-- 🛠️ : Python (intermediário) / java (intermediário) / AWS Practitioner (Certificado) / AWS / solution architect (Certificado) / Oracle Cloud Infrastructure Foundations Associate (Certificado) / Power BI (Básico) / 
+- 💡: **CERTIFICAÇÕES**
+    - AWS Cloud Practitioner ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+    - AWS Solution Architect Associate ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+    - AWS Developer Associate ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+    - AWS IA Practitioner ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+    - FinOps Certified Practitioner ![FinOps](https://img.shields.io/badge/-FinOps-3A3A3A?style=flat-square&logo=finops&logoColor=white)
+    - AZURE AZ-900 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+    - Oracle Cloud Infrastructure Foundations Associate ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+- 🛠️ <B>ALGUMAS TECNOLOGIAS QUE DOMINO OU TENHO PRÁTICA CONSTANTE/DIÁRIA:</B>
 
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 </div>
 
-## 💡 Fun Facts
+## 🧩 Fun Facts
 
 - 🍲 Tenho uma relação de amor com comidas que levam queijo 🧀, meu preferido é Cuscuz com quejo branco.
-- ❤️ Gosto muito de está em família, é sempre um moento de paz.
+- ❤️ Gosto muito de está em família, é sempre um momento de paz.
 - 🌱 Atualmente aprendendo sobre AWS, mas sempre aprendendo outras coisas, apaixonado por codar.
 - 🎧 Sou eclético mas curto ouvir pagode, rock, indie, forró, rap, hip-hop... Mas não ouço tantas músicas como deveria
 
