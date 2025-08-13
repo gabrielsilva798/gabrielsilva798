@@ -31,8 +31,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 </div>
+<br/>
 
 ## 🧩 Fun Facts
 
@@ -40,6 +40,8 @@
 - ❤️ Gosto muito de está em família, é sempre um momento de paz.
 - 🌱 Atualmente aprendendo sobre AWS, mas sempre aprendendo outras coisas, apaixonado por codar.
 - 🎧 Sou eclético mas curto ouvir pagode, rock, indie, forró, rap, hip-hop... Mas não ouço tantas músicas como deveria
+
+<br/>
 
 ## 📫 Como me encontrar
 
