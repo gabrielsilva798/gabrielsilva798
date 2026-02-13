@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 : Cursando Ensino Superior de Análise e Desenvolvimento de Sistemas
+- 🎓 : Cursando Superior em Computação pela UNB - Universidade de Brasília
 - 💻 : Estudante ativo da área de DevOps e desenvolvimento com um pé em Analise de Dados. 
 - 💻 : Cursando Java pelo AlgarWorks (Básico ao Avançado) 
 - 💻 : Cursando Python pelo Hashtag Treinamentos (Básico ao Avançado) 
@@ -13,10 +13,10 @@
     - AWS Cloud Practitioner ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
     - AWS Solution Architect Associate ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
     - AWS Developer Associate ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-    - AWS IA Practitioner ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
     - FinOps Certified Practitioner ![FinOps](https://img.shields.io/badge/-FinOps-3A3A3A?style=flat-square&logo=finops&logoColor=white)
     - AZURE AZ-900 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
     - Oracle Cloud Infrastructure Foundations Associate ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+    - Oracle Cloud Infrastructure Certified AI Foundations Associate ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
     - Academy Accreditation - Databricks Fundamentals ![Databricks](https://img.shields.io/badge/-Databricks-EF3B2D?style=flat-square&logo=databricks&logoColor=white)
     - LFS162: Introduction to DevOps and Site Reliability Engineering – Linux Foundation ![Linux Foundation](https://img.shields.io/badge/-Linux%20Foundation-003366?style=flat-square&logo=linuxfoundation&logoColor=white)
 
