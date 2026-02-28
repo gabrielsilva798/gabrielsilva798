@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 : Cursando Analise e Desenvolvimento de Sistemas
-- 💻 : Estudante ativo da área de DevOps e desenvolvimento com um pé em Analise de Dados. 
+- 💻 : Estudante ativo da área de DevOps e desenvolvimento de sistemas. 
 - 💻 : Cursando Java pelo AlgarWorks (Básico ao Avançado) 
 - 💻 : Cursando Python pelo Hashtag Treinamentos (Básico ao Avançado) 
 - 💼 : Focado em me desenvolver na área de tecnologia
