@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 : Cursando Superior em Computação pela UNB - Universidade de Brasília
+- 🎓 : Cursando Analise e Desenvolvimento de Sistemas
 - 💻 : Estudante ativo da área de DevOps e desenvolvimento com um pé em Analise de Dados. 
 - 💻 : Cursando Java pelo AlgarWorks (Básico ao Avançado) 
 - 💻 : Cursando Python pelo Hashtag Treinamentos (Básico ao Avançado) 
