@@ -30,7 +30,7 @@
 
 ---
 
-## 🏆 Certificações
+## 🏆 Certificações e Credenciais
 
 * AWS Cloud Practitioner
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
