@@ -22,7 +22,7 @@ Realizei o **curso completo de Amazon Connect na Escola da Nuvem**, que incluiu 
 * 💰 Visão de **custos e otimização**, somando Amazon Connect aos conhecimentos de FinOps
 
 ![Amazon Connect](https://img.shields.io/badge/Amazon_Connect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Escola da Nuvem](https://img.shields.io/badge/Escola_da_Nuvem-Curso_Completo-0A66C2?style=for-the-badge)
+![Escola da Nuvem](https://img.shields.io/badge/Escola_da_Nuvem-0A66C2?style=for-the-badge)
 
 ---
 
@@ -37,7 +37,7 @@ Sou **FinOps Certified Practitioner**, com conhecimentos na prática financeira 
 * 🤝 **Colaboração entre times** de engenharia, finanças e negócio
 * ☁️ Aplicação dos conceitos de FinOps em **AWS, Azure e Oracle Cloud**
 
-![FinOps](https://img.shields.io/badge/FinOps-Certified_Practitioner-3A3A3A?style=for-the-badge&logo=finops&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps_Certified-3A3A3A?style=for-the-badge&logo=finops&logoColor=white)
 
 ---
 
