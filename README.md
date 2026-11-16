@@ -4,9 +4,8 @@
 
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 * 📞 Conhecimentos em **Amazon Connect** (central de atendimento em nuvem), com **curso completo e projeto prático realizado na Escola da Nuvem**
-* ☁️ Conhecimentos em **Cloud Computing**, com certificações em AWS, Azure e Oracle Cloud
-* 🧱 Conhecimentos em **Databricks**, com a **Academy Accreditation – Databricks Fundamentals**
 * 💰 Certificado **FinOps Certified Practitioner**, com conhecimentos em **gestão, monitoramento e otimização de custos em Cloud**
+* ☁️ Conhecimentos em **Cloud Computing**, com certificações em AWS, Azure e Oracle Cloud
 * 💼 Buscando oportunidades nas áreas de **Amazon Connect, Cloud e FinOps**
 * 🌍 Nascido e criado em Brasília, Brasil!
 
@@ -27,11 +26,25 @@ Realizei o **curso completo de Amazon Connect na Escola da Nuvem**, que incluiu 
 
 ---
 
+## 💰 FinOps
+
+Sou **FinOps Certified Practitioner**, com conhecimentos na prática financeira de Cloud, que une as áreas de tecnologia, finanças e negócio para fazer cada investimento em nuvem gerar mais valor.
+
+* 📊 **Visibilidade e alocação de custos** (Inform): entendimento de onde e como os recursos em Cloud estão sendo gastos
+* 🔍 **Monitoramento de custos e uso** em ambientes Cloud
+* ⚙️ **Otimização de recursos e custos** (Optimize): dimensionamento adequado, modelos de precificação e eliminação de desperdícios
+* 🔄 **Melhoria contínua e governança** (Operate): processos e cultura de responsabilidade sobre os custos
+* 🤝 **Colaboração entre times** de engenharia, finanças e negócio
+* ☁️ Aplicação dos conceitos de FinOps em **AWS, Azure e Oracle Cloud**
+
+![FinOps](https://img.shields.io/badge/FinOps-Certified_Practitioner-3A3A3A?style=for-the-badge&logo=finops&logoColor=white)
+
+---
+
 ## 🎯 Áreas de interesse
 
 * 📞 **Amazon Connect e Contact Center em Nuvem**
 * ☁️ **Cloud Computing**
-* 🧱 **Databricks**
 * 💰 **FinOps e Cloud Cost Optimization**
 
 ---
@@ -41,6 +54,9 @@ Realizei o **curso completo de Amazon Connect na Escola da Nuvem**, que incluiu 
 * Curso completo de Amazon Connect com projeto prático – Escola da Nuvem
   ![Amazon Connect](https://img.shields.io/badge/-Amazon_Connect-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
+* FinOps Certified Practitioner
+  ![FinOps](https://img.shields.io/badge/-FinOps-3A3A3A?style=flat-square&logo=finops&logoColor=white)
+
 * AWS Cloud Practitioner
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
@@ -49,9 +65,6 @@ Realizei o **curso completo de Amazon Connect na Escola da Nuvem**, que incluiu 
 
 * AWS Developer Associate
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-* FinOps Certified Practitioner
-  ![FinOps](https://img.shields.io/badge/-FinOps-3A3A3A?style=flat-square&logo=finops&logoColor=white)
 
 * Microsoft Azure AZ-900
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -81,7 +94,6 @@ Realizei o **curso completo de Amazon Connect na Escola da Nuvem**, que incluiu 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![FinOps](https://img.shields.io/badge/FinOps-3A3A3A?style=for-the-badge&logo=finops&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
@@ -103,7 +115,6 @@ Realizei o **curso completo de Amazon Connect na Escola da Nuvem**, que incluiu 
 
 * 📞 **Amazon Connect e soluções de Contact Center em nuvem**
 * ☁️ **Cloud Computing**
-* 🧱 **Databricks**
 * 💰 **FinOps e otimização de custos em Cloud**
 
 ---
